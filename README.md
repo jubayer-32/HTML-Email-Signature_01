@@ -9,49 +9,6 @@
 
   <style type="text/css">
     @import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
-
-
-    * {
-     margin: 0;
-     padding: 0;
-      }
-
-      table {
-          border-collapse: collapse;
-      }
-
-      a {
-          text-decoration: none;
-          color: #00788a;
-      }
-
-      a:hover {
-          text-decoration: underline;
-      }
-
-      h2,
-      h2 a,
-      h2,
-      h3,
-      h3 a,
-
-      h4,
-      h5,
-      h6,
-      .t_cht {
-          color: #000000 !important;
-      }
-
-      .ExternalClass p,
-      .ExternalClass span,
-      .ExternalClass font,
-      .ExternalClass td {
-          line-height: 100%;
-      }
-
-      .ExternalClass {
-          width: 100%;
-      }
   </style>   
 
 </head>
